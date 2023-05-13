@@ -1,0 +1,60 @@
+.person {
+    margin: 5px;
+    padding: 5px;
+    background-color: lightseagreen;
+    border-radius: 10px;
+}
+
+.success {
+    margin: 5px;
+    padding: 5px 20px;
+    background-color: #73A9AD;
+    color: white;
+    border-radius: 10px;
+}
+
+.danger {
+    margin: 5px;
+    padding: 5px 20px;
+    background-color: #E76161;
+    color: white;
+    border-radius: 10px;
+}
+
+.primary {
+    margin: 5px;
+    padding: 0.5rem 2rem;
+    background-color: #19A7CE;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.primary:hover,
+.primary:active {
+    background-color: #146C94;
+}
+
+.secondary {
+    margin: 5px;
+    padding: 0.5rem 2rem;
+    background-color: #9BA4B5;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.secondary:hover,
+.secondary:active {
+    background-color: #394867;
+}
+
+.card {
+    display: inline-block;
+    width: 40%;
+    margin: 5px 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: azure;
+}
